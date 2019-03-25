@@ -6,4 +6,4 @@ The first time this is done, contents of the "hash.csv" are copied to the "copy.
 
 check.sh compares contents of "hash.csv" and "copy.csv" and returns hash-sums and paths to them of any files that have been changed.
 
-Full text of the assignment is in the Assignment.pdf (Norwegian).
+Full text of the assignment is in the oblig1.pdf (Norwegian).
